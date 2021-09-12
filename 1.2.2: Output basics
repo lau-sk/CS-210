@@ -1,0 +1,87 @@
+    // Part 1
+#include <iostream>
+using namespace std;
+
+int main() {
+
+   cout << "This week was marvelous." << endl;
+
+   return 0;
+}
+
+
+    // Part 2
+#include <iostream>
+using namespace std;
+
+int main() {
+
+   cout << "cot" << endl;
+   cout << "pad" << endl;
+
+   return 0;
+}
+
+
+    // Part 3
+#include <iostream>
+using namespace std;
+
+int main() {
+
+   cout << "Protect the" << endl;
+   cout << "   birds" << endl;
+
+   return 0;
+}
+
+
+    // Part 4
+#include <iostream>
+using namespace std;
+
+int main() {
+   int numSeconds;
+
+   // Our tests will run your program with input 2, then run again with input 5.
+   // Your program should work for any input, though.
+   cin >> numSeconds;
+
+   cout << numSeconds << endl;
+
+   return 0;
+}
+
+
+    // Part 5
+#include <iostream>
+using namespace std;
+
+int main() {
+   int numBirds;
+
+   // Our tests will run your program with input 3, then run again with input 6.
+   // Your program should work for any input, though.
+   cin >> numBirds;
+
+   cout << "Birds: " << numBirds << endl;
+
+   return 0;
+}
+
+
+    // Part 6
+#include <iostream>
+using namespace std;
+
+int main() {
+   int numCars;
+
+   // Our tests will run your program with input 4, then run again with input 7.
+   // Your program should work for any input, though.
+   cin >> numCars;
+
+   cout << "Were there " << numCars << " cars?" << endl;
+
+   return 0;
+}
